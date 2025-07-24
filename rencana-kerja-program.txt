@@ -1,5 +1,7 @@
 RENCANA KERJA 
 - Javascript 
+  *ES6
+  *FRAMEWORK JAVASCRIPT
 - PHP Framewoks
 - interview
 - implementasi 
