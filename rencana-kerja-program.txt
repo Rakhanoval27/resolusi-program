@@ -1,0 +1,8 @@
+RENCANA KERJA 
+- Javascript 
+  *ES6
+  *FRAMEWORK JAVASCRIPT
+- Struktur Data 
+- PHP Framewoks
+- interview
+- implementasi 
