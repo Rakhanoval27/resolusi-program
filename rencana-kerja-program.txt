@@ -2,8 +2,10 @@ RENCANA KERJA
 - Javascript 
   *ES6
   *FRAMEWORK JAVASCRIPT
+   ^ Vue
 - Struktur Data 
 - fundamental belajar ngoding 
 - PHP Framewoks
 - interview
 - implementasi 
+- belajar python
