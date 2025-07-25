@@ -3,6 +3,7 @@ RENCANA KERJA
   *ES6
   *FRAMEWORK JAVASCRIPT
    ^ Vue
+   ^ react
 - Struktur Data 
 - fundamental belajar ngoding 
 - PHP Framewoks
