@@ -3,6 +3,7 @@ RENCANA KERJA
   *ES6
   *FRAMEWORK JAVASCRIPT
 - Struktur Data 
+- fundamental belajar ngoding 
 - PHP Framewoks
 - interview
 - implementasi 
