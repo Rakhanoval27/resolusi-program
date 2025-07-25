@@ -7,7 +7,9 @@ RENCANA KERJA
 - Struktur Data 
 - fundamental belajar ngoding 
 - PHP Framewoks
-  * Laravel
+ ^Laravel
+- Struktur Data 
+- fundamental belajar ngoding 
 - interview
 - implementasi 
 - belajar python
